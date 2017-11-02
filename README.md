@@ -7,4 +7,11 @@ Besides, here would be some recommend tutorial. Thank you for your contributions
  - 先从最基础的开始，因为需要直接分析网页进行源码分析以找到目标文件等 （极客学院）
  - 以前的方式是先将整个网页爬下来，然后使用正则找到目标内容，打印出来。这也是为什么urllib比较慢。
 
+# Four components:
+ - items.py
+ 	- 
+ - middlewares.py
+ - pipelines.py
+ - setting.py
+
  

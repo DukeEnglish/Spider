@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 # Scrapy settings for douban_movie project
-#
+# 这里会保存一些重要的项目设置文件
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
 #

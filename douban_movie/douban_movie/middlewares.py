@@ -4,6 +4,13 @@
 #
 # See documentation in:
 # http://doc.scrapy.org/en/latest/topics/spider-middleware.html
+'''
+Spider中间件是在引擎及Spider之间的(specific hook)，
+处理spider的输入(response)和输出(items及requests)。 
+所以，我们就知道了：
+response - > spider and spider engine - > items and request
+其提供了一个简便的机制，通过插入自定义代码来扩展Scrapy功能
+'''
 
 from scrapy import signals
 

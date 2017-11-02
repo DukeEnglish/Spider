@@ -16,6 +16,7 @@ For this project, we have three target website for now:
 - 百度百科
 
 After these, we may need to do similar things to 旅游，汽车，教育，百度知道，知乎等进行尝试。
+可能可以用来尝试的网站：链家网，豆瓣，大众店品
 ## Qualifications and Experience
 No
 ## Task Schedule
@@ -39,6 +40,10 @@ I never did it before, so I guess there might be some problems and I raise some 
 - The analysis of a web page: I plan to analysis some web page follow the tutorial on the Internet and try to learn the logical thoughts behind.
 
 - The structure of the project: After complete the project, I need some time to reproduce this project and arrage each file reasonly.
+
+
+## Updating：
+1，Api of douban cannot be opened now
 
 ## References
 [1] https://doc.scrapy.org/en/latest/intro/overview.html
